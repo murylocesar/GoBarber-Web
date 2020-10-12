@@ -5,7 +5,7 @@ import { FormHandles } from '@unform/core';
 import { Form } from '@unform/web';
 import * as Yup from 'yup';
 
-import { useToast } from '../../hooks/Toast';
+import { useToast } from '../../hooks/toast';
 
 import getValidationErrors from '../../utils/getValidationErros';
 

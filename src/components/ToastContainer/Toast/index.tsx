@@ -8,7 +8,7 @@ import {
 
 import { Container } from './styles';
 
-import { ToastMessage, useToast } from '../../../hooks/Toast';
+import { ToastMessage, useToast } from '../../../hooks/toast';
 
 interface ToastProps {
   message: ToastMessage;
