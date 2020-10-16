@@ -1,5 +1,5 @@
-import React, { useCallback, useRef, useContext } from 'react';
-import { useHistory, useLocation, Link } from 'react-router-dom';
+import React, { useCallback, useRef } from 'react';
+import { useHistory,  Link } from 'react-router-dom';
 import { FiLogIn, FiMail, FiLock } from 'react-icons/fi';
 import { FormHandles } from '@unform/core';
 import { Form } from '@unform/web';
